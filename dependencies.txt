@@ -1,0 +1,10 @@
+For the index code:
+tensorflow 1.5.0
+python 3.6
+numpy 1.12.1
+scipy 1.0.0
+
+and for the "Hello world"-like example:
+keras 2.1.2
+The neural network model checkpointed into vars/ in the MLP available from Keras repository:
+https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py

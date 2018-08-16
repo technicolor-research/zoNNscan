@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/r1/marking/cleverhans/tmp/mlp/10_0.001_128/mlp"
+all_model_checkpoint_paths: "/home/r1/marking/cleverhans/tmp/mlp/10_0.001_128/mlp"
